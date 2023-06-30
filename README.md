@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um desafio de desenvolvimento mobile que consiste em criar um aplicativo para listar palavras em inglês utilizando a API Words API. O objetivo do projeto é exibir termos em inglês e gerenciar as palavras visualizadas, conforme indicado nos casos de uso descritos abaixo.
+Este é um desafio de desenvolvimento mobile que consiste em criar um aplicativo para listar palavras utilizando a API Words API. O objetivo do projeto é exibir termos e gerenciar as palavras visualizadas, conforme indicado nos casos de uso descritos abaixo.
 
 ## Tecnologias Utilizadas
 
