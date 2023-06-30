@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297545843567",
+    "project_id": "testes-9cd1f",
+    "storage_bucket": "testes-9cd1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297545843567:android:a46b3346a659cfa39ade9a",
+        "android_client_info": {
+          "package_name": "com.desafio.words"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297545843567-e391teg2t0l7fhcs0luo1p9qt2le1b4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWXQovRSjZTxDSocDPN1uHchjGJUETJnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297545843567-e391teg2t0l7fhcs0luo1p9qt2le1b4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
