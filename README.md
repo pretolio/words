@@ -13,7 +13,7 @@ Este é um desafio de desenvolvimento mobile que consiste em criar um aplicativo
 
 ## Instalação e Uso
 
-1. Baixe em seu smartphone Android o apk do link abaixo
+1. Baixe em seu smartphone Android o apk do link 
    https://github.com/pretolio/words/blob/main/apk/app-release.apk
 
 2. No seu smartphone Android, vá até as configurações do dispositivo.
