@@ -40,16 +40,26 @@ Este é um desafio de desenvolvimento mobile que consiste em criar um aplicativo
 ## Como usar o aplicativo
 
 1. Na tela inicial, você verá uma lista infinita de palavras.
-   
 2. Toque em uma palavra para ver os significados e a fonética.
-   
+
+   <img src="assets/images/Screenshot_20230630_134338.png" alt="Lista de Palavras" height="400">
+
 3. Na tela dos detalhes da palavra para escutar as informaçoes da listada clique no icone de microfone.
 
-4. Para salvar uma palavra como favorito, clique no ícone de coração.
+   <img src="assets/images/Screenshot_20230630_150433.png" alt="Detalhes da Palavras" height="400">
 
-5. Para remover uma palavra dos favoritos, clique novamente no ícone de coração.
 
-6. Para visualizar as palavras que já foram vistas anteriormente, toque no ícone de histórico no canto superior central.
+4. Para salvar uma palavra como favorito, é necessario realizar login, clicando em favoritos.
 
-7. No histórico, você pode ver as palavras previamente visualizadas.
+   <img src="assets/images/Screenshot_20230630_150445.png" alt="Tela Login" height="400">
+   
+5. Para salvar uma palavra como favorito, clique no ícone de coração.
+6. Para remover uma palavra dos favoritos, clique novamente no ícone de coração.
+   
+   <img src="assets/images/Screenshot_20230630_134338.png" alt="Lista de Palavras" height="400">
+
+7. Para visualizar as palavras que já foram vistas anteriormente, toque no ícone de histórico no canto superior central.
+8. No histórico, você pode ver as palavras previamente visualizadas.
+
+   <img src="assets/images/Screenshot_20230630_150406.png" alt="Lista de Palavras" height="400">
 
